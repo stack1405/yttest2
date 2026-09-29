@@ -11,7 +11,7 @@ on:
       ipa_url_ios17:
         description: Second YouTube IPA URL (iOS 17+ base, 21.39.4). Leave empty to build one IPA.
         required: false
-        default: "https://www.dropbox.com/scl/fi/9ox7vpinumcfmqtrhfrza/com.google.ios.youtube-21.39.4-eeveedecrypter.ipa?rlkey=ashzog3aq6cx04lxrksqjk1ki&st=9erzfgfn&dl=1"
+        default: "https://www.dropbox.com/scl/fi/2jddblip15ghk7zznqw0s/YouTube-21.36.6.ipa?rlkey=yl8ixac7jyhajue4tu7yj9x50&st=fnejl5jl&dl=1"
         type: string
 
 permissions:
